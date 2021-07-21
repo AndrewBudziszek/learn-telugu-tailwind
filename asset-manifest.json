@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/learn-telugu-tailwind/static/css/main.cdd89027.chunk.css",
+    "main.js": "/learn-telugu-tailwind/static/js/main.68b39fa9.chunk.js",
+    "main.js.map": "/learn-telugu-tailwind/static/js/main.68b39fa9.chunk.js.map",
+    "runtime-main.js": "/learn-telugu-tailwind/static/js/runtime-main.5c5e648c.js",
+    "runtime-main.js.map": "/learn-telugu-tailwind/static/js/runtime-main.5c5e648c.js.map",
+    "static/js/2.c7a6d5da.chunk.js": "/learn-telugu-tailwind/static/js/2.c7a6d5da.chunk.js",
+    "static/js/2.c7a6d5da.chunk.js.map": "/learn-telugu-tailwind/static/js/2.c7a6d5da.chunk.js.map",
+    "index.html": "/learn-telugu-tailwind/index.html",
+    "static/css/main.cdd89027.chunk.css.map": "/learn-telugu-tailwind/static/css/main.cdd89027.chunk.css.map",
+    "static/js/2.c7a6d5da.chunk.js.LICENSE.txt": "/learn-telugu-tailwind/static/js/2.c7a6d5da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c5e648c.js",
+    "static/js/2.c7a6d5da.chunk.js",
+    "static/css/main.cdd89027.chunk.css",
+    "static/js/main.68b39fa9.chunk.js"
+  ]
+}
